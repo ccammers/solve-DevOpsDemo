@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "qName": "Bar",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "INLFED"
+    ]
+  },
+  {
+    "qName": "Foo",
+    "qTags": [
+      "$numeric",
+      "$integer"
+    ],
+    "qSrcTables": [
+      "INLFED"
+    ]
+  }
+]
